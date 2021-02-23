@@ -1,0 +1,43 @@
+.chartButton {
+    margin: 1%;
+    background-color: white;
+}
+
+.row .icons {
+    float: right;
+}
+
+svg {
+    align-items: center;
+    justify-content: center;
+}
+
+.x-axis {
+    transform: translateY(200px);
+}
+
+.inlne {
+    display: inline;
+}
+
+.chart {
+    background-color: aliceblue;
+    overflow: visible;
+}
+
+.gauge {
+    height: 150px;
+    width: 200px;
+    cursor: pointer;
+    background-color: white;
+}
+
+
+/* .new {
+    background: skyblue;
+} */
+
+.score {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
